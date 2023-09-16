@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "mpdf/mpdf": "8.0.13"
+        "mpdf/mpdf": "~8.0.17"
     },
     "autoload": {
         "psr-4": {
